@@ -85,7 +85,7 @@ def send_email(sender_email, sender_password, receiver_email, subject, body):
 # Example usage
 customername = "Nick"  
 representative_name = "Mike Waz"  
-company_name = "Purvis Industries"
+company_name = "Mike Industries"
 
 customer_review1 = """I am really disappointed with the shipping time. It took way longer than expected, and there were no clear updates on the delivery status. On top of that, when I reached out to customer service for help, they were unresponsive and not helpful at all. I expected better communication and service. Definitely not a great experience.""" 
 
