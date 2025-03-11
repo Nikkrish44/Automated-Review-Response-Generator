@@ -1,4 +1,4 @@
-# AI-Powered Customer Feedback Responder
+# AI-Powered Customer Feedback Responder 📣
 This project is a Python-based AI service that can:
 - Analyze customer feedback to determine sentiment (positive, neutral, or negative)
 - Extract key themes from customer reviews
